@@ -6,7 +6,7 @@ Before you can deploy the test network, you need to follow the instructions to [
 
 ## test-network
 
-- kvn_start.sh  这个文件就是原始的例子，只不过把deploy chaincode的代码提取出来意义列举而已
+- kvn_start.sh  这个文件就是原始的例子，只不过把deploy chaincode的代码提取出来一一列举而已
 - kvn_first_app.sh 这个文件是从下面的链接开始的例子代码
 https://github.com/hyperledger/fabric-contract-api-go/tree/master/tutorials
   chaincode 代码位于 ./chaincode/go/ folder

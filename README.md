@@ -2,7 +2,7 @@
 
 # Hyperledger Fabric Samples -- forked by Liziblockchain
 
-- test-network fold contains the first learning chaincode and bash scripts for the Golang
+- test-network folder contains the first learning chaincode and bash scripts for the Golang at Mar 2021
 
 
 
